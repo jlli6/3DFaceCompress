@@ -1,0 +1,4 @@
+# ninja log v5
+1	9827	1733213720113991644	/home/ljl/workspace/IBC24/FlashAvatar-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	ce989bcc9b05c2fe
+0	17086	1733213727362006630	/home/ljl/workspace/IBC24/FlashAvatar-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	3b80165e79b5b5a
+1	42656	1733213752942059428	/home/ljl/workspace/IBC24/FlashAvatar-code/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	9edf8be0534a914b

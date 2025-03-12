@@ -1,0 +1,15 @@
+.vscode
+dataset
+experiment
+metrical-tracker
+flame/generic_model.pkl
+flame/FLAME_masks
+flame/__pycache__
+gaussian_attr_test
+mlp_test
+pretrained_model
+test_output
+log_*
+
+
+
